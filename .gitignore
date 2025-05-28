@@ -7,3 +7,9 @@
 *.log
 *.net
 *.raw
+
+# Xournal++
+*.autosave.xopp
+
+# Binary Files
+*.exe
